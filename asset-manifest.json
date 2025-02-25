@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Microsoft_clone/static/css/main.95c94695.css",
+    "main.js": "/Microsoft_clone/static/js/main.15731c25.js",
+    "static/js/453.3197d5ef.chunk.js": "/Microsoft_clone/static/js/453.3197d5ef.chunk.js",
+    "static/media/Search.png": "/Microsoft_clone/static/media/Search.b4914c241e97f650f09b.png",
+    "static/media/ms-logo.png": "/Microsoft_clone/static/media/ms-logo.c682a8dc23b77d12444c.png",
+    "static/media/M-365 icon.avif": "/Microsoft_clone/static/media/M-365 icon.5dcecb350f795dabfce9.avif",
+    "static/media/x-box.svg": "/Microsoft_clone/static/media/x-box.85cef56be9839f9c1ff26bd4ab498dd8.svg",
+    "static/media/user.svg": "/Microsoft_clone/static/media/user.a7a140b63f063e1a211bbb2d060a3e22.svg",
+    "static/media/surf-dev.svg": "/Microsoft_clone/static/media/surf-dev.8ffb562d6abbaa2c73899f08fbe2831d.svg",
+    "index.html": "/Microsoft_clone/index.html",
+    "static/media/m-365.svg": "/Microsoft_clone/static/media/m-365.885aa5985c6f78ab8d8f8f7df0862e23.svg",
+    "static/media/win-11.svg": "/Microsoft_clone/static/media/win-11.885aa5985c6f78ab8d8f8f7df0862e23.svg",
+    "static/media/cart.svg": "/Microsoft_clone/static/media/cart.a04f9262c56a7356df03248fc1e90075.svg",
+    "main.95c94695.css.map": "/Microsoft_clone/static/css/main.95c94695.css.map",
+    "main.15731c25.js.map": "/Microsoft_clone/static/js/main.15731c25.js.map",
+    "453.3197d5ef.chunk.js.map": "/Microsoft_clone/static/js/453.3197d5ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c94695.css",
+    "static/js/main.15731c25.js"
+  ]
+}
