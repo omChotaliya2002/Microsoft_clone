@@ -13,7 +13,7 @@ function Home() {
   return (
 
     <>
-    <div className="navbar flex justify-between item-center p-[9px]">
+    <div className="navbar flex justify-between item-center p-[9px] select-none">
       <div className="flex justify-center items-center md:order-2">
         <div className="hamburgur inline-block cursor-pointer md:hidden">
           <div className="line h-0.5 w-6 my-1 bg-slate-500 "></div>
@@ -23,7 +23,7 @@ function Home() {
         <div className="search md:hidden"> <img className="w-6 mx-5" alt="search" src={search}/> </div>
       </div>
 
-      <div className="logo text-center md:order-1 flex">
+      <div className="logo text-center md:order-1 flex select-none">
         <div className="flex items-center w-24 cursor-pointer"> <img src={logo} alt="Microsoft"/> </div>
         <div className="features w-fit md:w-auto md:static bg-gray-200 md:bg-white md:mt-2 absolute inset-0 md:flex md:mx-4 md:space-x-4 -translate-x-96 md:translate-x-0">
           <div className="fitem text-sm hover:underline hover:underline-offset-4 cursor-pointer"> Microsoft 365 </div>
@@ -36,7 +36,7 @@ function Home() {
         </div>
       </div>
 
-      <div className="cart text-center md:order-3 flex">
+      <div className="cart text-center md:order-3 flex select-none">
         <div className="search hidden md:flex md:flex-row md:space-x-1"> 
            <p className="mt-2 text-sm mr-5 cursor-pointer"> All Microsoft </p>  
            <p className="hidden xl:block  mt-2 text-[15px] cursor-pointer"> Search </p>
@@ -50,7 +50,7 @@ function Home() {
     </div>
 
 
-    <div className="slider flex flex-col-reverse md:flex-row cursor-pointer"> 
+    <div className="slider flex flex-col-reverse md:flex-row cursor-pointer select-none"> 
         <div className="left flex-col justify-center md:items-center md:bg-[#ACC2FB]">
             <p className=" text-xl sm:text-2xl mx-3 sm:my-4 my-4 font-semibold lg:my-12 lg:ml-20">Achieve the extraordinary</p>
 
@@ -64,7 +64,7 @@ function Home() {
 
     </div>
     
-    <div className="products flex justify-center space-x-2 flex-col items-center sm:flex-row sm:justify-between space-y-6 p-4 mt-6 md:justify-center md:space-x-12 lg:justify-center lg:space-x-24">
+    <div className="products flex justify-center space-x-2 flex-col items-center sm:flex-row sm:justify-between space-y-6 p-4 mt-6 md:justify-center md:space-x-12 lg:justify-center lg:space-x-24 select-none">
 
             <div className="item flex justify-center items-center flex-col space">
               <img className="w-10 cursor-pointer mt-8"  src={item1} alt="Microsoft 365"/>
